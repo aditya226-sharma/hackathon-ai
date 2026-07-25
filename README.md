@@ -1,2 +1,3 @@
 # hackathon-ai
-hack
+
+Project repository.
